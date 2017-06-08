@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetR8_2 Pin=R8-3
+Removed Member From Class: ClassName=Ö÷°å513 Member=F?
+Change Component DesignItemId : Designator=R8 Old DesignItemId=RES_Change_3362P New DesignItemId=RES-0805
+Change Component Footprint: Designator=R8 Old Footprint=RES_Change_3362P New Footprint=RES-0805
+Change Component Comment : Designator=R8 Old Comment=RES_Change_3362P New Comment=RES-0805
+Change Component Designator: OldDesignator=F1 NewDesignator=F2
+Change Component Designator: OldDesignator=F? NewDesignator=F1
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R15 NewDesignator=R12
+Change Net Name : Old Net Name=NetF?_1 New Net Name=NetF1_1
+Added Member To Class: ClassName=Ö÷°å513 Member=Component F2 FPC-1-4
+Added Room: Name=Ö÷°å513

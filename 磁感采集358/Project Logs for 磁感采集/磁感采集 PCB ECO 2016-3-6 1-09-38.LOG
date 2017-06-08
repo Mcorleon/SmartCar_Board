@@ -1,0 +1,185 @@
+Added Component: Designator=C1(CAP-0805)
+Added Component: Designator=C2(CAP-0805)
+Added Component: Designator=C3(CAP-0805)
+Added Component: Designator=C4(CAP-0805)
+Added Component: Designator=C5(CAP682)
+Added Component: Designator=C6(CAP682)
+Added Component: Designator=C7(CAP682)
+Added Component: Designator=C8(CAP682)
+Added Component: Designator=C9(CAP-0805)
+Added Component: Designator=C10(CAP-0805)
+Added Component: Designator=C11(CAP682)
+Added Component: Designator=C12(CAP682)
+Added Component: Designator=D1(led0805)
+Added Component: Designator=P1(HDR1X8)
+Added Component: Designator=P2(HDR1X8)
+Added Component: Designator=R1(RES-0805)
+Added Component: Designator=R2(RES-0805)
+Added Component: Designator=R3(RES-0805)
+Added Component: Designator=R4(R3224W)
+Added Component: Designator=R5(RES-0805)
+Added Component: Designator=R6(R3224W)
+Added Component: Designator=R7(R3224W)
+Added Component: Designator=R8(RES-0805)
+Added Component: Designator=R9(RES-0805)
+Added Component: Designator=R10(R3224W)
+Added Component: Designator=R11(RES-0805)
+Added Component: Designator=R12(RES-0805)
+Added Component: Designator=R13(RES-0805)
+Added Component: Designator=R14(RES-0805)
+Added Component: Designator=R15(R3224W)
+Added Component: Designator=R16(R3224W)
+Added Component: Designator=R17(RES-0805)
+Added Component: Designator=R18(RES-0805)
+Added Component: Designator=R19(RES-0805)
+Added Component: Designator=U1(SOP-8)
+Added Component: Designator=U2(SOP-8)
+Added Component: Designator=U3(SOP-8)
+Added Pin To Net: NetName=OUT4 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=OUT3 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=OUT2 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=OUT1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=IN3 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=IN4 Pin=C6-2
+Added Pin To Net: NetName=IN1 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=IN2 Pin=C8-2
+Added Pin To Net: NetName=OUT6 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=OUT5 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=IN5 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=IN6 Pin=C12-2
+Added Pin To Net: NetName=5V Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=IN1 Pin=P1-1
+Added Pin To Net: NetName=IN3 Pin=P1-2
+Added Pin To Net: NetName=IN2 Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=IN4 Pin=P1-6
+Added Pin To Net: NetName=IN5 Pin=P1-7
+Added Pin To Net: NetName=IN6 Pin=P1-8
+Added Pin To Net: NetName=5V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=OUT1 Pin=P2-3
+Added Pin To Net: NetName=OUT2 Pin=P2-4
+Added Pin To Net: NetName=OUT3 Pin=P2-5
+Added Pin To Net: NetName=OUT4 Pin=P2-6
+Added Pin To Net: NetName=OUT5 Pin=P2-7
+Added Pin To Net: NetName=OUT6 Pin=P2-8
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=OUT4 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=OUT3 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=OUT2 Pin=R3-2
+Added Pin To Net: NetName=NetR2_1 Pin=R4-1
+Added Pin To Net: NetName=NetR2_1 Pin=R4-2
+Added Pin To Net: NetName=NetR4_3 Pin=R4-3
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=OUT1 Pin=R5-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR1_1 Pin=R6-2
+Added Pin To Net: NetName=NetR1_1 Pin=R6-3
+Added Pin To Net: NetName=NetR5_1 Pin=R7-1
+Added Pin To Net: NetName=NetR5_1 Pin=R7-2
+Added Pin To Net: NetName=NetR7_3 Pin=R7-3
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetR4_3 Pin=R8-2
+Added Pin To Net: NetName=NetR6_1 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR3_1 Pin=R10-2
+Added Pin To Net: NetName=NetR3_1 Pin=R10-3
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=NetR7_3 Pin=R11-2
+Added Pin To Net: NetName=NetR10_1 Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=OUT6 Pin=R13-2
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=OUT5 Pin=R14-2
+Added Pin To Net: NetName=NetR14_1 Pin=R15-1
+Added Pin To Net: NetName=NetR14_1 Pin=R15-2
+Added Pin To Net: NetName=NetR15_3 Pin=R15-3
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR13_1 Pin=R16-2
+Added Pin To Net: NetName=NetR13_1 Pin=R16-3
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=NetR15_3 Pin=R17-2
+Added Pin To Net: NetName=NetR16_1 Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=NetD1_2 Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=NetR2_1 Pin=U1-1
+Added Pin To Net: NetName=NetR4_3 Pin=U1-2
+Added Pin To Net: NetName=IN3 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=IN4 Pin=U1-5
+Added Pin To Net: NetName=NetR6_1 Pin=U1-6
+Added Pin To Net: NetName=NetR1_1 Pin=U1-7
+Added Pin To Net: NetName=5V Pin=U1-8
+Added Pin To Net: NetName=NetR5_1 Pin=U2-1
+Added Pin To Net: NetName=NetR7_3 Pin=U2-2
+Added Pin To Net: NetName=IN1 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=IN2 Pin=U2-5
+Added Pin To Net: NetName=NetR10_1 Pin=U2-6
+Added Pin To Net: NetName=NetR3_1 Pin=U2-7
+Added Pin To Net: NetName=5V Pin=U2-8
+Added Pin To Net: NetName=NetR14_1 Pin=U3-1
+Added Pin To Net: NetName=NetR15_3 Pin=U3-2
+Added Pin To Net: NetName=IN5 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=IN6 Pin=U3-5
+Added Pin To Net: NetName=NetR16_1 Pin=U3-6
+Added Pin To Net: NetName=NetR13_1 Pin=U3-7
+Added Pin To Net: NetName=5V Pin=U3-8
+Added Member To Class: ClassName=磁感采集 Member=Component C1 CAP-0805
+Added Member To Class: ClassName=磁感采集 Member=Component C2 CAP-0805
+Added Member To Class: ClassName=磁感采集 Member=Component C3 CAP-0805
+Added Member To Class: ClassName=磁感采集 Member=Component C4 CAP-0805
+Added Member To Class: ClassName=磁感采集 Member=Component C5 CAP682
+Added Member To Class: ClassName=磁感采集 Member=Component C6 CAP682
+Added Member To Class: ClassName=磁感采集 Member=Component C7 CAP682
+Added Member To Class: ClassName=磁感采集 Member=Component C8 CAP682
+Added Member To Class: ClassName=磁感采集 Member=Component C9 CAP-0805
+Added Member To Class: ClassName=磁感采集 Member=Component C10 CAP-0805
+Added Member To Class: ClassName=磁感采集 Member=Component C11 CAP682
+Added Member To Class: ClassName=磁感采集 Member=Component C12 CAP682
+Added Member To Class: ClassName=磁感采集 Member=Component D1 led
+Added Member To Class: ClassName=磁感采集 Member=Component P1 IN
+Added Member To Class: ClassName=磁感采集 Member=Component P2 OUT
+Added Member To Class: ClassName=磁感采集 Member=Component R1 RES-0805
+Added Member To Class: ClassName=磁感采集 Member=Component R2 RES-0805
+Added Member To Class: ClassName=磁感采集 Member=Component R3 RES-0805
+Added Member To Class: ClassName=磁感采集 Member=Component R4 电位器
+Added Member To Class: ClassName=磁感采集 Member=Component R5 RES-0805
+Added Member To Class: ClassName=磁感采集 Member=Component R6 电位器
+Added Member To Class: ClassName=磁感采集 Member=Component R7 电位器
+Added Member To Class: ClassName=磁感采集 Member=Component R8 RES-0805
+Added Member To Class: ClassName=磁感采集 Member=Component R9 RES-0805
+Added Member To Class: ClassName=磁感采集 Member=Component R10 电位器
+Added Member To Class: ClassName=磁感采集 Member=Component R11 RES-0805
+Added Member To Class: ClassName=磁感采集 Member=Component R12 RES-0805
+Added Member To Class: ClassName=磁感采集 Member=Component R13 RES-0805
+Added Member To Class: ClassName=磁感采集 Member=Component R14 RES-0805
+Added Member To Class: ClassName=磁感采集 Member=Component R15 电位器
+Added Member To Class: ClassName=磁感采集 Member=Component R16 电位器
+Added Member To Class: ClassName=磁感采集 Member=Component R17 RES-0805
+Added Member To Class: ClassName=磁感采集 Member=Component R18 RES-0805
+Added Member To Class: ClassName=磁感采集 Member=Component R19 RES-0805
+Added Member To Class: ClassName=磁感采集 Member=Component U1 LMV358
+Added Member To Class: ClassName=磁感采集 Member=Component U2 LMV358
+Added Member To Class: ClassName=磁感采集 Member=Component U3 LMV358
+Added Room: Name=磁感采集

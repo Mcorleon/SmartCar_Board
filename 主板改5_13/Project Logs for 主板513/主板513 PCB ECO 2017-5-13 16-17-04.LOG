@@ -1,0 +1,7 @@
+Added Component: Designator=*2(MPU6050)
+Added Pin To Net: NetName=3.3V Pin=*2-1
+Added Pin To Net: NetName=DGND Pin=*2-2
+Added Pin To Net: NetName=SCL_T Pin=*2-3
+Added Pin To Net: NetName=SDA_T Pin=*2-4
+Added Member To Class: ClassName=Ö÷°å513 Member=Component *2 MPU6050
+Added Room: Name=Ö÷°å513

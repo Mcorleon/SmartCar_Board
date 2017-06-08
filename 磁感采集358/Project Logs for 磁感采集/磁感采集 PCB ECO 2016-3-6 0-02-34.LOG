@@ -1,0 +1,12 @@
+Added Component: Designator=C3(CAP682)
+Added Component: Designator=C4(CAP682)
+Added Component: Designator=C6(CAP682)
+Added Pin To Net: NetName=IN1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=IN2 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=IN3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Member To Class: ClassName=磁感采集 Member=Component C3 CAP682
+Added Member To Class: ClassName=磁感采集 Member=Component C4 CAP682
+Added Member To Class: ClassName=磁感采集 Member=Component C6 CAP682

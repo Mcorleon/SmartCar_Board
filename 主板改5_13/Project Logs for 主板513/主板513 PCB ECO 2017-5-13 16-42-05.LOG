@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=C3 Old DesignItemId=CAP-SMD-1000UF New DesignItemId=CAP_1000UF_DIP
+Change Component Footprint: Designator=C3 Old Footprint=CAP-SMD-1000UF New Footprint=CAP_DIP_8¡Á14
+Change Component Comment : Designator=C3 Old Comment=CAP-SMD-1000UF New Comment=CAP_1000UF_DIP
+Added Pin To Net: NetName=A9 Pin=CSB_T1-1
+Added Pin To Net: NetName=A9 Pin=U3-52
+Added Net: Name=A9
+Added Member To Class: ClassName=Ö÷°å513 Member=Component *2 MPU6050
+Added Room: Name=Ö÷°å513

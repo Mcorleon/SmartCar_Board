@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=PTD9 Pin=BLUE1-1
+Removed Pin From Net: NetName=PTD8 Pin=BLUE1-2
+Removed Pin From Net: NetName=DGND Pin=BLUE1-3
+Removed Pin From Net: NetName=5V_2 Pin=BLUE1-4
+Removed Pin From Net: NetName=PTD6 Pin=BLUE1-5
+Removed Pin From Net: NetName=3.3V Pin=R11-1
+Removed Pin From Net: NetName=3.3V Pin=R11-2
+Removed Pin From Net: NetName=3.3V Pin=R11-3
+Removed Pin From Net: NetName=3.3V Pin=R11-4
+Removed Pin From Net: NetName=B21 Pin=R11-5
+Removed Pin From Net: NetName=B20 Pin=R11-6
+Removed Pin From Net: NetName=B19 Pin=R11-7
+Removed Pin From Net: NetName=B18 Pin=R11-8
+Removed Pin From Net: NetName=3.3V Pin=R13-1
+Removed Pin From Net: NetName=B22 Pin=R13-2
+Removed Pin From Net: NetName=3.3V Pin=R14-1
+Removed Pin From Net: NetName=B23 Pin=R14-2
+Removed Pin From Net: NetName=3.3V Pin=R16-1
+Removed Pin From Net: NetName=3.3V Pin=R16-2
+Removed Pin From Net: NetName=3.3V Pin=R16-3
+Removed Pin From Net: NetName=3.3V Pin=R16-4
+Removed Pin From Net: NetName=C7 Pin=R16-5
+Removed Pin From Net: NetName=C5 Pin=R16-6
+Removed Pin From Net: NetName=C4 Pin=R16-7
+Removed Pin From Net: NetName=C3 Pin=R16-8
+Removed Member From Class: ClassName=主板V3 Member=BLUE1
+Removed Member From Class: ClassName=主板V3 Member=R11
+Removed Member From Class: ClassName=主板V3 Member=R13
+Removed Member From Class: ClassName=主板V3 Member=R14
+Removed Member From Class: ClassName=主板V3 Member=R16
+Change Class Name : Old Net Name=主板V3 New Net Name=主板513
+Added Room: Name=主板513

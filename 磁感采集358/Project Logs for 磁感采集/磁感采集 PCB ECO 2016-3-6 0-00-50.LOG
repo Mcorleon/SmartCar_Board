@@ -1,0 +1,89 @@
+Added Component: Designator=C1(CAP-0805)
+Added Component: Designator=C2(CAP-0805)
+Added Component: Designator=C5(CAP-0805)
+Added Component: Designator=D1(led0805)
+Added Component: Designator=J1(HEADER1X5)
+Added Component: Designator=J2(HEADER1X5)
+Added Component: Designator=R1(RES-0805)
+Added Component: Designator=R2(RES-0805)
+Added Component: Designator=R3(R3224W)
+Added Component: Designator=R4(R3224W)
+Added Component: Designator=R5(RES-0805)
+Added Component: Designator=R6(RES-0805)
+Added Component: Designator=R7(RES-0805)
+Added Component: Designator=R8(R3224W)
+Added Component: Designator=R9(RES-0805)
+Added Component: Designator=R10(RES-0805)
+Added Component: Designator=U1(SOP-8)
+Added Component: Designator=U2(SOP-8)
+Added Pin To Net: NetName=5V Pin=D1-1
+Added Pin To Net: NetName=5V Pin=J2-1
+Added Pin To Net: NetName=5V Pin=U1-8
+Added Pin To Net: NetName=5V Pin=U2-8
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Net: Name=GND
+Added Pin To Net: NetName=IN1 Pin=J1-1
+Added Pin To Net: NetName=IN1 Pin=U1-3
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=J1-4
+Added Pin To Net: NetName=IN2 Pin=U1-5
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=J1-5
+Added Pin To Net: NetName=IN3 Pin=U2-3
+Added Net: Name=IN3
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R10-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R4-2
+Added Pin To Net: NetName=NetR1_1 Pin=R4-3
+Added Pin To Net: NetName=NetR1_1 Pin=U1-7
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=NetR2_1 Pin=U1-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_3 Pin=R3-3
+Added Pin To Net: NetName=NetR3_3 Pin=R5-2
+Added Pin To Net: NetName=NetR3_3 Pin=U1-2
+Added Net: Name=NetR3_3
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R6-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-6
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-2
+Added Pin To Net: NetName=NetR7_1 Pin=U2-1
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_3 Pin=R8-3
+Added Pin To Net: NetName=NetR8_3 Pin=R9-2
+Added Pin To Net: NetName=NetR8_3 Pin=U2-2
+Added Net: Name=NetR8_3
+Added Pin To Net: NetName=OUT1 Pin=C2-1
+Added Pin To Net: NetName=OUT1 Pin=J2-3
+Added Pin To Net: NetName=OUT1 Pin=R2-2
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=C1-1
+Added Pin To Net: NetName=OUT2 Pin=J2-4
+Added Pin To Net: NetName=OUT2 Pin=R1-2
+Added Net: Name=OUT2
+Added Pin To Net: NetName=OUT3 Pin=C5-1
+Added Pin To Net: NetName=OUT3 Pin=J2-5
+Added Pin To Net: NetName=OUT3 Pin=R7-2
+Added Net: Name=OUT3
+Added Class: Name=磁感采集
+Added Room: Name=磁感采集

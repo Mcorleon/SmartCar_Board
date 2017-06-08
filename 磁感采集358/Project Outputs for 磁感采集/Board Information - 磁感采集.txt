@@ -1,0 +1,158 @@
+Board Information Report
+Filename     : H:\private PCB\2016电磁\不倒的土豆  V3\磁感采集\磁感采集.PcbDoc
+Date         : 2016/5/22
+Time         : 16:45:12
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 1795milsx905mils
+    Components on board, 37
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 83
+    Connections routed, 83
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 2, 0, 59, 0, 0, 0, 0
+    Bottom Layer, 0, 62, 0, 148, 0, 0, 0, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 37
+    Mechanical 13, 3, 0, 0, 20, 0, 0, 0, 0
+    Mechanical 15, 0, 0, 0, 30, 0, 0, 0, 0
+    Multi-Layer, 0, 46, 15, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 0, 0, 0, 75, 34, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 6, 0, 0, 91, 44, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 4, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 15
+
+Layer Pairs, Vias
+    Top Layer - Bottom Layer, 15
+count : 1
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mils, 64, 0
+    12mils, 0, 15
+    30mils, 30, 0
+    35.433mils, 16, 0
+count : 4
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    8mils, 15
+    23.622mils, 16
+    30mils, 12
+    55mils, 18
+count : 4
+
+Mid Layer Annular Ring Size, Count
+    8mils, 15
+    23.622mils, 16
+    30mils, 12
+    55mils, 18
+count : 4
+
+Bottom Layer Annular Ring Size, Count
+    8mils, 15
+    23.622mils, 16
+    30mils, 12
+    55mils, 18
+count : 4
+
+Pad Solder Mask, Count
+    4mils, 110
+count : 1
+
+Pad Paste Mask, Count
+    0mils, 110
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    20mils, 110
+count : 1
+
+Pad Relief Conductor Width, Count
+    10mils, 110
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 110
+count : 1
+
+Pad Relief Entries, Count
+    4, 110
+count : 1
+
+Via Solder Mask, Count
+    4mils, 15
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    20mils, 15
+count : 1
+
+Track Width, Count
+    3.937mils, 56
+    5mils, 114
+    7.874mils, 22
+    10mils, 28
+    15mils, 130
+    20mils, 31
+    30mils, 46
+count : 7
+
+Arc Line Width, Count
+    3.937mils, 3
+    9.843mils, 3
+    14mils, 3
+count : 3
+
+Arc Radius, Count
+    4.921mils, 3
+    7mils, 3
+    19.685mils, 3
+count : 3
+
+Arc Degrees, Count
+    360, 9
+count : 1
+
+Text Height, Count
+    60mils, 74
+    180mils, 4
+count : 2
+
+Text Width, Count
+    6mils, 4
+    10mils, 74
+count : 2
+
+Net Track Width, Count
+    102157.428mils, 27
+count : 1
+
+Net Via Size, Count
+    50mils, 27
+count : 1

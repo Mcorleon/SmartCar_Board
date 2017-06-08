@@ -1,0 +1,135 @@
+Removed Pin From Net: NetName=IN3 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=IN1 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=IN5 Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=OUT1 Pin=R3-2
+Removed Pin From Net: NetName=NetR2_1 Pin=R4-1
+Removed Pin From Net: NetName=NetR2_1 Pin=R4-2
+Removed Pin From Net: NetName=NetR1_1 Pin=R6-2
+Removed Pin From Net: NetName=NetR5_1 Pin=R7-1
+Removed Pin From Net: NetName=NetR3_1 Pin=R10-2
+Removed Pin From Net: NetName=NetR3_1 Pin=R10-3
+Removed Pin From Net: NetName=NetR14_1 Pin=R15-1
+Removed Pin From Net: NetName=NetR13_1 Pin=R16-2
+Removed Pin From Net: NetName=NetR3_1 Pin=U2-7
+Change Component DesignItemId : Designator=C1 Old DesignItemId=CAP-0805 New DesignItemId=CAP-0603
+Change Component DesignItemId : Designator=C2 Old DesignItemId=CAP-0805 New DesignItemId=CAP-0603
+Change Component DesignItemId : Designator=C3 Old DesignItemId=CAP-0805 New DesignItemId=CAP-0603
+Change Component DesignItemId : Designator=C4 Old DesignItemId=CAP-0805 New DesignItemId=CAP-0603
+Change Component DesignItemId : Designator=C9 Old DesignItemId=CAP-0805 New DesignItemId=CAP-0603
+Change Component DesignItemId : Designator=C10 Old DesignItemId=CAP-0805 New DesignItemId=CAP-0603
+Change Component DesignItemId : Designator=R1 Old DesignItemId=RES-0805 New DesignItemId=RES-0603
+Change Component DesignItemId : Designator=R2 Old DesignItemId=RES-0805 New DesignItemId=RES-0603
+Change Component DesignItemId : Designator=R5 Old DesignItemId=RES-0805 New DesignItemId=RES-0603
+Change Component DesignItemId : Designator=R8 Old DesignItemId=RES-0805 New DesignItemId=RES-0603
+Change Component DesignItemId : Designator=R9 Old DesignItemId=RES-0805 New DesignItemId=RES-0603
+Change Component DesignItemId : Designator=R11 Old DesignItemId=RES-0805 New DesignItemId=RES-0603
+Change Component DesignItemId : Designator=R12 Old DesignItemId=RES-0805 New DesignItemId=RES-0603
+Change Component DesignItemId : Designator=R13 Old DesignItemId=RES-0805 New DesignItemId=RES-0603
+Change Component DesignItemId : Designator=R14 Old DesignItemId=RES-0805 New DesignItemId=RES-0603
+Change Component DesignItemId : Designator=R17 Old DesignItemId=RES-0805 New DesignItemId=RES-0603
+Change Component DesignItemId : Designator=R18 Old DesignItemId=RES-0805 New DesignItemId=RES-0603
+Change Component DesignItemId : Designator=R3 Old DesignItemId=RES-0805 New DesignItemId=RES-change-3362P
+Change Component DesignItemId : Designator=R4 Old DesignItemId=电位器 New DesignItemId=RES-0603
+Change Component DesignItemId : Designator=R6 Old DesignItemId=电位器 New DesignItemId=RES-change-3362P
+Change Component DesignItemId : Designator=R7 Old DesignItemId=电位器 New DesignItemId=RES-change-3362P
+Change Component DesignItemId : Designator=R10 Old DesignItemId=电位器 New DesignItemId=RES-change-3362P
+Change Component DesignItemId : Designator=R15 Old DesignItemId=电位器 New DesignItemId=RES-change-3362P
+Change Component DesignItemId : Designator=R16 Old DesignItemId=电位器 New DesignItemId=RES-change-3362P
+Change Component Footprint: Designator=C1 Old Footprint=CAP-0805 New Footprint=CAP-0603
+Change Component Footprint: Designator=C2 Old Footprint=CAP-0805 New Footprint=CAP-0603
+Change Component Footprint: Designator=C3 Old Footprint=CAP-0805 New Footprint=CAP-0603
+Change Component Footprint: Designator=C4 Old Footprint=CAP-0805 New Footprint=CAP-0603
+Change Component Footprint: Designator=C9 Old Footprint=CAP-0805 New Footprint=CAP-0603
+Change Component Footprint: Designator=C10 Old Footprint=CAP-0805 New Footprint=CAP-0603
+Change Component Footprint: Designator=R4 Old Footprint=R3224W New Footprint=RES-0603
+Change Component Footprint: Designator=R6 Old Footprint=R3224W New Footprint=RES-change-3362P
+Change Component Footprint: Designator=R7 Old Footprint=R3224W New Footprint=RES-change-3362P
+Change Component Footprint: Designator=R10 Old Footprint=R3224W New Footprint=RES-change-3362P
+Change Component Footprint: Designator=R15 Old Footprint=R3224W New Footprint=RES-change-3362P
+Change Component Footprint: Designator=R16 Old Footprint=R3224W New Footprint=RES-change-3362P
+Change Component Footprint: Designator=R1 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R2 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R5 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R8 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R9 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R11 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R12 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R13 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R14 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R17 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R18 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R3 Old Footprint=RES-0805 New Footprint=RES-change-3362P
+Change Component Comment : Designator=C1 Old Comment=CAP-0805 New Comment=104
+Change Component Comment : Designator=C2 Old Comment=CAP-0805 New Comment=104
+Change Component Comment : Designator=C3 Old Comment=CAP-0805 New Comment=104
+Change Component Comment : Designator=C4 Old Comment=CAP-0805 New Comment=104
+Change Component Comment : Designator=C9 Old Comment=CAP-0805 New Comment=104
+Change Component Comment : Designator=C10 Old Comment=CAP-0805 New Comment=104
+Change Component Comment : Designator=R1 Old Comment=RES-0805 New Comment=RES-0603
+Change Component Comment : Designator=R2 Old Comment=RES-0805 New Comment=RES-0603
+Change Component Comment : Designator=R5 Old Comment=RES-0805 New Comment=RES-0603
+Change Component Comment : Designator=R8 Old Comment=RES-0805 New Comment=RES-0603
+Change Component Comment : Designator=R9 Old Comment=RES-0805 New Comment=RES-0603
+Change Component Comment : Designator=R11 Old Comment=RES-0805 New Comment=RES-0603
+Change Component Comment : Designator=R12 Old Comment=RES-0805 New Comment=RES-0603
+Change Component Comment : Designator=R13 Old Comment=RES-0805 New Comment=RES-0603
+Change Component Comment : Designator=R14 Old Comment=RES-0805 New Comment=RES-0603
+Change Component Comment : Designator=R17 Old Comment=RES-0805 New Comment=RES-0603
+Change Component Comment : Designator=R18 Old Comment=RES-0805 New Comment=RES-0603
+Change Component Comment : Designator=R3 Old Comment=RES-0805 New Comment=RES
+Change Component Comment : Designator=R4 Old Comment=电位器 New Comment=RES-0603
+Change Component Comment : Designator=R6 Old Comment=电位器 New Comment=RES
+Change Component Comment : Designator=R7 Old Comment=电位器 New Comment=RES
+Change Component Comment : Designator=R10 Old Comment=电位器 New Comment=RES
+Change Component Comment : Designator=R15 Old Comment=电位器 New Comment=RES
+Change Component Comment : Designator=R16 Old Comment=电位器 New Comment=RES
+Change Component Library : Designator=C5 Old Library=Driver.IntLib New Library=wmh_commom.IntLib
+Change Component Library : Designator=C6 Old Library=Driver.IntLib New Library=wmh_commom.IntLib
+Change Component Library : Designator=C7 Old Library=Driver.IntLib New Library=wmh_commom.IntLib
+Change Component Library : Designator=C8 Old Library=Driver.IntLib New Library=wmh_commom.IntLib
+Change Component Library : Designator=C11 Old Library=Driver.IntLib New Library=wmh_commom.IntLib
+Change Component Library : Designator=C12 Old Library=Driver.IntLib New Library=wmh_commom.IntLib
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=IN3 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=IN1 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=IN5 Pin=C12-2
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=NetR2_1 Pin=R3-3
+Added Pin To Net: NetName=OUT1 Pin=R4-2
+Added Pin To Net: NetName=NetR1_1 Pin=R6-1
+Added Pin To Net: NetName=NetR5_1 Pin=R7-3
+Added Pin To Net: NetName=NetR3_1 Pin=R8-2
+Added Pin To Net: NetName=NetR14_1 Pin=R15-3
+Added Pin To Net: NetName=NetR13_1 Pin=R16-1
+Added Pin To Net: NetName=NetR3_1 Pin=U1-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R10-1
+Added Pin To Net: NetName=NetR4_1 Pin=R10-3
+Added Pin To Net: NetName=NetR4_1 Pin=U2-7
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R9-1
+Added Pin To Net: NetName=NetR6_2 Pin=U1-6
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R11-2
+Added Pin To Net: NetName=NetR7_1 Pin=U2-2
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=R12-1
+Added Pin To Net: NetName=NetR10_2 Pin=U2-6
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=R17-2
+Added Pin To Net: NetName=NetR15_1 Pin=U3-2
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=R18-1
+Added Pin To Net: NetName=NetR16_2 Pin=U3-6
+Added Net: Name=NetR16_2
+Added Member To Class: ClassName=磁感采集 Member=Component C11 CAP682

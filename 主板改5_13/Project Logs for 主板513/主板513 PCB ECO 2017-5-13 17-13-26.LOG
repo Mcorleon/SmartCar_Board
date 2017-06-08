@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=E10 Pin=D3-2
+Removed Pin From Net: NetName=E12 Pin=D4-2
+Removed Pin From Net: NetName=BUZZER Pin=U3-12
+Added Component: Designator=B7(Button-SMT)
+Added Pin To Net: NetName=E10 Pin=B7-1
+Added Pin To Net: NetName=DGND Pin=B7-2
+Added Pin To Net: NetName=BUZZER Pin=U3-117
+Added Pin To Net: NetName=D6 Pin=D4-2
+Added Pin To Net: NetName=D6 Pin=U3-116
+Added Net: Name=D6
+Added Pin To Net: NetName=D8 Pin=D3-2
+Added Pin To Net: NetName=D8 Pin=U3-118
+Added Net: Name=D8
+Added Member To Class: ClassName=Ö÷°å513 Member=Component B7 Button
+Added Room: Name=Ö÷°å513

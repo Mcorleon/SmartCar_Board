@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=7.2V Pin=S1-1
+Added Component: Designator=F?(Fuse1808_Base)
+Added Pin To Net: NetName=7.2V Pin=F?-2
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=S1-1
+Added Net: Name=NetF?_1
+Added Member To Class: ClassName=Ö÷°å513 Member=Component F? FUSE-1808-Base
+Added Room: Name=Ö÷°å513
